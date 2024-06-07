@@ -61,6 +61,7 @@
 |Nuxt|Tools/Libraries|English|<https://twitter.com/i/communities/1498235047194808320>|
 |SATySFi|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1498074334619123712>|
 |Spring Developers|Tools/Libraries|English|<https://twitter.com/i/communities/1496544801533091844>|
+|Software Engineering|Software|English|<https://x.com/i/communities/1699807431709041070>|
 |Svelte日本|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499182207491260424>|
 |sudo-jp|Tools/Libraries|Japanese|<https://twitter.com/i/communities/1499227044982374401>|
 |CHIRIMEN Open Hardware コミュニティ|Etc|Japanese|<https://twitter.com/i/communities/1500392782829359104>|
